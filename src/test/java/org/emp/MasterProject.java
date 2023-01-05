@@ -10,4 +10,11 @@ public class MasterProject {
 		System.out.println("2");
 	}
 	
+	private void monkey() {
+		System.out.println("monkey");
+	}
+	
+	private void dog() {
+		System.out.println("dog");
+	}
 }
